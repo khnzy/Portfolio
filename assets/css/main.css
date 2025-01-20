@@ -2688,7 +2688,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		display: -moz-flex;
+		/* display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
@@ -2699,9 +2699,9 @@ input, select, textarea {
 		-moz-justify-content: space-between;
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
-		justify-content: space-between;
-		background: #4acaa8;
-		color: #d2f2e9;
+		justify-content: space-between; */
+		background: #8c5fdf;
+		color: #f2d2d2;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2807,7 +2807,7 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #39f155;
 							color: #4acaa8 !important;
 						}
 
